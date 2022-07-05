@@ -93,7 +93,7 @@ const Navbar = props => {
                 </NextLink>
                 <MenuItem
                   as={Link}
-                  href="https://github.com/sumi0080/portfolio.git"
+                  href="https://github.com/sumi0080/portfolio-Sumit"
                 >
                   View Source
                 </MenuItem>
